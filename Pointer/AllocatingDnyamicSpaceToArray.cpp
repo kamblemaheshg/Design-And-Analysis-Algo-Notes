@@ -9,7 +9,8 @@ int main()
 {
     // DYNAMIC ALOCATION OF MEAMORY MEANS HEAP
     struct Rectangle *rct ;
-    rct = (struct Rectangle *)malloc(sizeof(struct Rectangle));
+    //rct = (struct Rectangle *)malloc(sizeof(struct Rectangle));
+    rct = new Rectangle ;
     // Assining Values 
     rct -> length = 90;
     rct -> breadth= 80;
