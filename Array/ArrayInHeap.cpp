@@ -17,6 +17,6 @@ int main()
     for (int i = 0; i < n ; i++) {
         cout << A[i] << "\n";
     }
-
+   delete []A;
     return 0;
 }
