@@ -15,4 +15,5 @@ int main()
 {
     fun(5);
     return 0;
+//     calls -> n+1  ->> O(n)
 }
