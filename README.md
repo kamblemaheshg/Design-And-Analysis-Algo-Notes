@@ -1,2 +1,1 @@
-# Design-And-Analysis-Algo-Notes
-# HEY MY NAME IS MAHESH AND I AM BUILDING THIS REPO WITH KEY CODES IN DSA.
+This repostry contains my daily practise codes of DSA
